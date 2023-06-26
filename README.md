@@ -1,4 +1,3 @@
-# alx-backend-javascript
 ## JavaScript ES6 Backend Tasks
 
 ![image](https://github.com/ugoem/alx-backend-javascript/assets/24642339/cfbe861e-2099-4991-a276-2212405cd01a)
@@ -36,7 +35,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 # Requirements
 ## General
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-* Allowed editors: ~vi, vim, emacs, Visual Studio Code~
+* Allowed editors: `` vi, vim, emacs, Visual Studio Code ``
 * All your files should end with a new line
 * A README.md file, at the root of the folder of the project, is mandatory
 * Your code should use the js extension
