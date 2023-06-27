@@ -1,6 +1,7 @@
 # ES6 Promises - Javascript
 
-![](https://raw.githubusercontent.com/yingshandeng/image-host/master/data/do-you-promise.png)
+![image](https://github.com/ugoem/alx-backend-javascript/assets/24642339/5bc04aec-fed4-441b-8fba-c74f22892f84)
+
 
 A Promise is a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a promise to supply the value at some point in the future.[read more](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
@@ -101,3 +102,59 @@ export function createUser() {
 }
 ```
 - copy-paste this in a file called __.eslintrc.js__
+
+```
+module.exports = {
+  env: {
+    browser: false,
+    es6: true,
+    jest: true,
+  },
+  extends: [
+    'airbnb-base',
+    'plugin:jest/all',
+  ],
+  globals: {
+    Atomics: 'readonly',
+    SharedArrayBuffer: 'readonly',
+  },
+  parserOptions: {
+    ecmaVersion: 2018,
+    sourceType: 'module',
+  },
+  plugins: ['jest'],
+  rules: {
+    'no-console': 'off',
+    'no-shadow': 'off',
+    'no-restricted-syntax': [
+      'error',
+      'LabeledStatement',
+      'WithStatement',
+    ],
+  },
+  overrides:[
+    {
+      files: ['*.js'],
+      excludedFiles: 'babel.config.js',
+    }
+  ]
+};
+```
+## and…
+Don’t forget to run `` $ npm install`` when you have the `` package.json ``
+
+## Response Data Format
+`` uploadPhoto `` returns a response with the format
+```
+{
+  status: 200,
+  body: 'photo-profile-1',
+}
+```
+``createUser `` returns a response with the format
+```
+{
+  firstName: 'Guillaume',
+  lastName: 'Salva',
+}
+```
