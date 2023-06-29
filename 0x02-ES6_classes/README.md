@@ -1,22 +1,22 @@
 # ES6_classes
 
-![image](https://github.com/ugoem/alx-backend-javascript/assets/24642339/2823f395-c0dc-420c-9803-ade0d49f6596)
+![image](http0s://github.com/ugoem/alx-backend-javascript/assets/24642339/2823f395-c0dc-420c-9803-ade0d49f6596)
 
 # Resources
 Read or watch:
-
+* 
 * Classes
 * Metaprogramming
   
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-* How to define a Class
+* 0How to define a Class
 * How to add methods to a class
 * Why and how to add a static method to a class
 * How to extend a class from another
 * Metaprogramming and symbols
-
+ii
 ## Requirements
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 * Allowed editors: vi, vim, emacs, Visual Studio Code
