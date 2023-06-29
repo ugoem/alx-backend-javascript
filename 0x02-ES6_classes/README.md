@@ -1,6 +1,6 @@
 # ES6_classes
 
-![image](http0s://github.com/ugoem/alx-backend-javascript/assets/24642339/2823f395-c0dc-420c-9803-ade0d49f6596)
+![image](https://github.com/ugoem/alx-backend-javascript/assets/24642339/59ad5038-eafa-41fe-b8ef-8eff679607f5)
 
 # Resources
 Read or watch:
