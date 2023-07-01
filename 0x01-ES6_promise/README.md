@@ -157,4 +157,5 @@ Don’t forget to run `` $ npm install`` when you have the `` package.json ``
   firstName: 'Guillaume',
   lastName: 'Salva',
 }
-```
+
+...```
