@@ -2,6 +2,8 @@
 
 ![image](https://github.com/ugoem/alx-backend-javascript/assets/24642339/37a473af-a8e4-4398-87e8-226c4139642c)
 
+An array is a special variable in all the languages that are used to store different elements. JavaScript array contains some built-in properties that every JavaScript developer should know how to use and when or where to use them. We can use them to add, remove, iterate, or manipulate data as per our requirements.
+
 # Resources
 Read or watch:
 
